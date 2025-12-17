@@ -1,0 +1,9 @@
+Exercise 1: The React Paradigm
+Imperative vs Declarative: Imperative UI tells the system how to do each step, while Declarative UI
+describes what the final result should be. Example: Imperative is giving step-by-step instructions to
+make coffee, Declarative is simply ordering a coffee.
+Component-based architecture benefits: Reusability (use once, reuse everywhere), Maintainability
+(easy to update and debug), Scalability (applications grow in organized structure).
+Virtual DOM is a lightweight copy of the real DOM. React compares changes using reconciliation
+and updates only changed elements, which improves performance compared to direct DOM
+manipulation.

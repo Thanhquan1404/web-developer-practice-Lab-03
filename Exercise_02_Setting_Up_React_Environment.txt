@@ -1,0 +1,4 @@
+npm create vite@latest react-basics-exercise -- --template react
+cd react-basics-exercise
+npm install
+npm run dev
